@@ -1,0 +1,31 @@
+*{
+  background-color:#F2AEC7;
+
+}
+#visor
+{
+  margin-top: 10%;
+ margin-bottom: 10%;
+ height: 70px;
+ font-size: 30px;
+ background: white;
+}
+
+#limpar{
+  margin-bottom:10%;
+  height: 70px;
+  background: #D93B84
+}
+
+.numero{
+  /* margin-bottom: 10%; */
+  height: 70px;
+  font-size: 16px;
+  background: #FF3A6B;
+}
+
+.operadores{
+  margin-bottom:20%;
+  height: 70px;
+  background: #D93B84
+}
